@@ -1,0 +1,1 @@
+ use node --harmony-<new feature> filename.js to run node with new features
